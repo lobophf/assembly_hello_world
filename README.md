@@ -11,7 +11,7 @@ In order to create an object file, use the following command:
 
 Make the hello_world.o executable:
 ```bash
-  $ ld -m  elf_i386 -o hello_world hello_world.o
+  $ ld -m elf_i386 -o hello_world hello_world.o
 ```
 
 Run the hello_world program:
