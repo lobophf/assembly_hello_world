@@ -18,3 +18,5 @@ Run the hello_world program:
 ```bash
   $ ./hello_world
 ```
+
+Credits for [John Hammond](https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond)
