@@ -19,4 +19,4 @@ Run the hello_world program:
   $ ./hello_world
 ```
 
-Credits to [John Hammond](https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond)
+Credits to [John Hammond](https://www.youtube.com/watch?v=HgEGAaYdABA&ab_channel=JohnHammond).
